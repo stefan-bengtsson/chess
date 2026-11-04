@@ -36,3 +36,5 @@ stockfish
 skills-lock.json
 CONTEXT.md
 docs/
+.DS_Store
+engines/
